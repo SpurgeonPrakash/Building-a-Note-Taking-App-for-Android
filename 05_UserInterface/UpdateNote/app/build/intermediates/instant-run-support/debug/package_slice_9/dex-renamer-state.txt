@@ -1,0 +1,4 @@
+#Fri Feb 02 21:18:55 EST 2018
+base.0=/Users/romellbolton/Desktop/Ex_Files_NoteTaking_Android/Exercise Files/05_UserInterface/UpdateNote/app/build/intermediates/transforms/dexMerger/debug/9
+path.0=classes.dex
+renamed.0=classes.dex

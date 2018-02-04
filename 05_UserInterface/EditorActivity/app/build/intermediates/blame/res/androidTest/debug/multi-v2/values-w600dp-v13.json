@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/romellbolton/Desktop/Ex_Files_NoteTaking_Android/Exercise Files/05_UserInterface/EditorActivity/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-w600dp-v13/values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/romellbolton/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/e112091d23f00990b0fc428bff46afdc/res/values-w600dp/values-w600dp.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "294,358",
+                        "endColumns": "63,54",
+                        "endOffsets": "353,408"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,119",
+                        "endColumns": "63,54",
+                        "endOffsets": "114,169"
+                    }
+                }
+            ]
+        }
+    ]
+}

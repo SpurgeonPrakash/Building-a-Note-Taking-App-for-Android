@@ -1,0 +1,4 @@
+#Wed Jan 31 21:34:30 EST 2018
+base.0=/Users/romellbolton/Desktop/Ex_Files_NoteTaking_Android/Exercise Files/04_DataLayer/SampleData/app/build/intermediates/transforms/dexMerger/debug/4
+path.0=classes.dex
+renamed.0=classes.dex
